@@ -3,5 +3,5 @@ This is demo for git &amp; github class.
 
 # Teacher
 nagndra
-# student
+# studentdemo
 nagu
